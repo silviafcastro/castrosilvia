@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Silvia Castro"
 title_separator          : "-"
 name                     : &name "Silvia Castro"
@@ -26,8 +26,8 @@ author:
   avatar           : "profile.png"
   name             : "Silvia Castro"
   pronouns         : # example: "she/her"  
-  bio              : "I am a postdoctoral researcher at INSEAD’s  Stone Center for the Study of Wealth Inequality and a Predictive People Analytics Fellow at Ludwig-Maximilians-Universität (LMU)."
-  employer         : "INSEAD and University of Munich (LMU)"
+  bio              : "I am a postdoctoral researcher at INSEAD and the University of Munich (LMU)."
+  employer         : "INSEAD and LMU Munich"
   email            : "silvia.fernandezcastro@insead.edu" 
 
   # Academic websites
@@ -36,7 +36,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?hl=es&view_op=list_works&gmla=AHoSzlWXFHEZ2S7JZkbCc89lymsX_9eU9SVmAuJDaJve7xBR487IJfQCjbrlsIP9hrXNQ-bVk3GkxsmneaszgtsZcD4WLb3QM2UghbW96fmM7QRfdBpNlk7r0WrduHdviyfofSLkk91g&user=-VKV5UYAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-7174-4494"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -48,7 +48,6 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -57,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/castrofsilvia/"
+  linkedin         : "castrofsilvia/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
