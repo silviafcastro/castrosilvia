@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Silvia Castro / Academic Webpage"
+title                    : "Silvia Castro"
 title_separator          : "-"
 name                     : &name "Silvia Castro"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,38 +26,29 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "I am a postdoctoral researcher at INSEAD’s  Stone Center for the Study of Wealth Inequality and a Predictive People Analytics Fellow at Ludwig-Maximilians-Universität (LMU)."
+  employer         : "INSEAD and University of Munich (LMU)"
+  email            : "silvia.fernandezcastro@insead.edu" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=es&view_op=list_works&gmla=AHoSzlWXFHEZ2S7JZkbCc89lymsX_9eU9SVmAuJDaJve7xBR487IJfQCjbrlsIP9hrXNQ-bVk3GkxsmneaszgtsZcD4WLb3QM2UghbW96fmM7QRfdBpNlk7r0WrduHdviyfofSLkk91g&user=-VKV5UYAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/yourorcidurl"
-  semantic         : # URL
-  ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
-
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : #"academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -66,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/castrofsilvia/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
